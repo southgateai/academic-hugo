@@ -7,7 +7,7 @@
 
 theme: southgateai
 day_night: false
-font: ''
+font: 'southgateai'
 font_size: M
 
 # SEO
