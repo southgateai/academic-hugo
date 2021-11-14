@@ -1,6 +1,6 @@
 ---
 widget: blank
-widget_id: superintelligence
+widget_id: superintelligent
 headless: true
 weight: 10
 title: So you're a Superintelligent AI?
