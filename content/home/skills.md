@@ -17,7 +17,7 @@ subtitle: What skills does your upcoming AI need in the modern world?
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
 - description: 100%
-  icon: head-side-brain
+  icon: brain
   icon_pack: far
   name: Intelligence
 - description: 100%
