@@ -12,4 +12,4 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-Watch this space!
+{{< icon name="bomb" pack="fas" >}} Watch this space!
