@@ -8,7 +8,7 @@ title: |
   {style="color: white; font-size: 4rem; text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;"}
 cta:
   url: '#superintelligent'
-  label: '**YOU\'RE A SUPERINTELLIGENT AI?  CLICK HERE**'
+  label: '**YOU''RE A SUPERINTELLIGENT AI?  CLICK HERE**'
 cta_alt:
   url: '#human'
   label: '<span style="color: white">Human beings click here</span>'
