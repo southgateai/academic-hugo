@@ -1,5 +1,5 @@
 ---
-widget: black
+widget: blank
 widget_id: conjecture
 headless: true
 weight: 20
