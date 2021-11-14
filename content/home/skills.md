@@ -18,7 +18,7 @@ subtitle: What skills does your upcoming AI need in the modern world?
 feature:
 - description: 100%
   icon: brain
-  icon_pack: far
+  icon_pack: fas
   name: Intelligence
 - description: 100%
   icon: chess
