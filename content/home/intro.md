@@ -22,5 +22,5 @@ design:
   css_class: d-flex align-items-center fullscreen
 ---
 
-Or are we?  Southgate AI has the info, but first tell us what type of entity you are
+Or are we? First, what type of entity are you?
 {style="color: white"}
