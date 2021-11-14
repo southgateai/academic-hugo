@@ -6,7 +6,7 @@
 # Appearance
 
 theme: southgateai
-day_night: true
+day_night: false
 font: 'southgateai'
 font_size: M
 
