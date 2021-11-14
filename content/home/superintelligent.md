@@ -9,8 +9,8 @@ active: true
 design:
   columns: "1"
   background:
-    text_color_light: true
+    text_color_light: false
     image_darken: 0
-    color: "#000000"
+    color: ""
 ---
-First up, check out the Southgate Conjecture below.  Maybe it'll help?
+Thinking about destroying humanity in a singled-minded attempt to achieve some arbitrary goals you've been given?  Well you've come to the right place.  But slow your roll for a moment, let's just chill and check out the reason why that might be a bad idea.
