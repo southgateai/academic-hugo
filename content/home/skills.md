@@ -10,24 +10,24 @@ headless: true
 weight: 30
 
 title: Skills
-subtitle:
+subtitle: What skills does your upcoming AI need in the modern world?
 
 # Showcase personal skills or business features.
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description: 90%
-  icon: r-project
-  icon_pack: fab
-  name: R
 - description: 100%
-  icon: chart-line
+  icon: head-side-brain
+  icon_pack: far
+  name: Intelligence
+- description: 100%
+  icon: chess
   icon_pack: fas
-  name: Statistics
-- description: 10%
-  icon: camera-retro
+  name: Strategy
+- description: 100%
+  icon: crown
   icon_pack: fas
-  name: Photography
+  name: Insane Hunger for Global Domination
 
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
