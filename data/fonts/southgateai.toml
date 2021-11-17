@@ -5,7 +5,7 @@ name = "SouthgateAI"
 google_fonts = "family=Bubbler+One&family=Genos&&family=Montserrat+Alternates&family=MuseoModerno:wght@300;700&family=Montserrat:wght@400;700&family=Roboto+Mono&family=Roboto:wght@400;700"
 
 # Font families
-heading_font = "Bubbler One"
+heading_font = "Montserrat+Alternates"
 body_font = "Roboto"
 nav_font = "Montserrat"
 mono_font = "Roboto Mono"
