@@ -13,7 +13,7 @@ cta_alt:
   url: '#human'
   label: '<span style="color: white">Human beings click here</span>'
 cta_note:
-  label: '<div class="hero-cta-alt btn-lg pl-md-4"><span style="color:#fff">Don''t want to say?  Then scroll on down! <i class="fas fa-angle-down"></i></span></div>'
+  label: '<div class="hero-cta-alt btn-lg pl-md-0"><span style="color:#fff">Don’t want to say? Then scroll on down! <i class="fas fa-angle-down"></i></span></div>'
 design:
   background:
     video:
