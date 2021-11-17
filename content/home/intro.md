@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 1
 title: |
-  <i class="fas fa-brain">ARTIFICIAL  
+  <i class="fas fa-brain"></i>ARTIFICIAL  
   INTELLIGENCE
   {style="color: white; font-size: 3rem; text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;"}
 cta:
