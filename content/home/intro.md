@@ -5,7 +5,7 @@ weight: 1
 title: |
   ARTIFICAL
   INTELLIGENCE
-  {style="color: white; font-size: 4rem; text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;"}
+  {style="color: white; font-size: 3rem; text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;"}
 cta:
   url: '#superintelligent'
   label: '**YOU''RE A SUPERINTELLIGENT AI?  CLICK HERE**'
@@ -13,7 +13,7 @@ cta_alt:
   url: '#human'
   label: '<span style="color: white">Human beings click here</span>'
 cta_note:
-  label: 'Don''t want to say?  Then scroll on down {{< icon name="angle-down" pack="fas" >}}'
+  label: '<span style="color: white">Don''t want to say?  Then scroll on down <i class="fas fa-angle-right"></i></span>'
 design:
   background:
     video:
