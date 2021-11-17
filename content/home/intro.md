@@ -3,7 +3,7 @@ widget: hero
 headless: true
 weight: 1
 title: |
-  ARTIFICIAL  
+  <i class="fas fa-brain">ARTIFICIAL  
   INTELLIGENCE
   {style="color: white; font-size: 3rem; text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;"}
 cta:
@@ -13,7 +13,7 @@ cta_alt:
   url: '#human'
   label: '<span style="color: white">Human beings click here</span>'
 cta_note:
-  label: '<div class="hero-cta-alt btn-lg pl-md-0"><span style="color:#fff">Don’t want to say? Then scroll on down! <i class="fas fa-angle-down"></i></span></div>'
+  label: '<div class="hero-cta-alt btn-lg pl-md-0"><span style="color:#fff">Prefer not to say? Then scroll on down! <i class="fas fa-angle-down"></i></span></div>'
 design:
   background:
     video:
