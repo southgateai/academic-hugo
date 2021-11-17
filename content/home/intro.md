@@ -4,11 +4,11 @@ headless: true
 weight: 1
 title: |
   <i class="fas fa-brain"></i>ARTIFICIAL  
-  INTELLIGENCE
-  {style="color: white; font-size: 3rem; text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;"}
+  Intelligence
+  {style="color: white; font-size: 4rem; text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;"}
 cta:
   url: '#superintelligent'
-  label: '**YOU''RE A SUPERINTELLIGENT AI?  CLICK HERE**'
+  label: '**YOU’RE A SUPERINTELLIGENT AI? CLICK HERE**'
 cta_alt:
   url: '#human'
   label: '<span style="color: white">Human beings click here</span>'
@@ -24,5 +24,5 @@ design:
   css_class: d-flex align-items-center fullscreen
 ---
 
-Will it destroy us all? First, what type of entity are you?
+How _exactly_ will it destroy us all? Let’s work it out, but first, what type of entity are you?
 {style="color: white"}
