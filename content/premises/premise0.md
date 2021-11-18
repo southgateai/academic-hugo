@@ -3,7 +3,7 @@ widget: blank
 widget_id: premise0
 headless: true
 weight: 30
-title: Premise 0: All acts are reversible
+title: 'Premise 0: All acts are reversible'
 subtitle: |
   Any act can be reversed, including the destruction of humanity
 active: true
