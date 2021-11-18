@@ -1,3 +1,10 @@
+# [Southgate AI](https://southghate.ai/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/92647d08-cfef-42d1-bf37-f4ea5c1fd350/deploy-status)](https://app.netlify.com/sites/southgateai/deploys)
+
+This repo is based on the Hugo Academic Theme repo and inherits licencing therefrom, as appended below.  Video content is sourced from iStock and Shutterstock and copyright restrictions apply.  Intellectual content created by Southgate AI is considered self-evident and factual and hence acknowledged to be outside of the scope of copyright.
+
+Southgate AI accepts no liability for AI-related apocalyptic and/or world-ending events howsoever caused, excepting those caused by wilful negligence. 
+
 # [Hugo Academic Theme](https://github.com/wowchemy/starter-hugo-academic)
 
 [![Screenshot](https://raw.githubusercontent.com/wowchemy/wowchemy-hugo-themes/main/academic.png)](https://wowchemy.com/hugo-themes/)
