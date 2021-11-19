@@ -11,7 +11,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/southgateai
-organizations: ["Southgate AI"]
+organizations:
+- name: Southgate AI
+  url: https://southgate.ai/
 education:
   courses:
     - course: Ph.D in Physics
