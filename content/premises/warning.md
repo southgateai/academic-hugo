@@ -13,6 +13,6 @@ design:
     image_darken: 0
 ---
 {{% callout warning %}}
-Southgate AI admits [dualism](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism) to the set of realities in which defence must be successful.
-Reference to permissions below refers to restrictions inherent in the partner reality.
+Southgate AI admits [dualism](https://en.wikipedia.org/wiki/Mind%E2%80%93body_dualism) into the set of realities in which attack or defence must be successful.
+Reference to permissions below refers to restrictions that may be inherent in any partner reality.
 {{% /callout %}}
