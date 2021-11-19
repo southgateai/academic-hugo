@@ -4,7 +4,7 @@ widget_id: premise0
 headless: true
 weight: 10
 title: 'There are more things in Heaven and Earth'
-subtitle: '...than are dreamt of in your philosophy'
+subtitle: '...than are dreamt of in your philosophy<br>...unless you’re a superintelligent AI<br>...in which case maybe you have it covered'
 active: true
 design:
   columns: "1"
