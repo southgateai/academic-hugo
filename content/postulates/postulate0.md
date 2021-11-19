@@ -18,7 +18,7 @@ design:
   
 This postulate extends the problem set to include a selected subset of all plausible views of the constitution of reality.  In particular the
 [materialist nature](https://en.wikipedia.org/wiki/Materialism), or any nature where conscious experience arises solely from physical processes
-within the brain, is only one of many plausible natures considered.  The alternative nature postulated here is that macroscopic superposition,
-in the style of Schrödinger's Cat, extends to a superposition of neural constellations in which 'something external gets to choose'
-which constellation is physically realised.  It joins a wide range of objections to materialism, which remains a useful but potentially
-falsifiable conjecture.
+within the brain, is only one of many plausible natures considered.  The alternative nature postulated here to illustrate is that macroscopic
+superposition, in the style of Schrödinger's Cat, can be extended to a superposition of neural constellations in which 'something external
+gets to choose' which constellation is physically realised.  It joins a wide range of objections to materialism, which remains a useful but
+potentially falsifiable conjecture.
