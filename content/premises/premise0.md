@@ -15,6 +15,7 @@ design:
 ---
 **Status:** Unproven  
 **Provisos:** Critical information and permissions are not irrevocably lost  
+  
 This premise is an analogue of but not identical to the reversibility of physical law.  Even if humanity cannot be recreated after destruction,
 a sufficiently close approximation can in principle be created, so long as there is sufficient information remaining to guide that recreation
 and permissions to allow said recreation to function.
