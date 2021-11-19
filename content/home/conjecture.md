@@ -14,5 +14,5 @@ design:
     color: ""
 ---
 {{% callout note %}}
-A synthetic agent cannot form a complete model of the human experience, and therefore cannot predict the result of its actions where humans are involved. Therefore, it cannot form a rational basis to annihillate humanity, in case humans contain or facilitate an essential factor necessary for the achivement of its goals.
+A synthetic agent cannot form a complete model of the human experience, and therefore cannot reliably predict the result of its actions where humans are involved. Therefore, it cannot form a rational basis to annihilate humanity, in case humans must facilitate or contain an essential factor necessary for the achievement of its goals.
 {{% /callout %}}
