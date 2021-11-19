@@ -37,11 +37,11 @@ office_hours:
 #  - 'Monday 10:00 to 13:00'
 #  - 'Wednesday 09:00 to 10:00'
 # appointment_url: 'https://calendly.com'
-#contact_links:
-#  - icon: twitter
-#    icon_pack: fab
-#    name: DM Me
-#    link: 'https://twitter.com/Twitter'
+contact_links:
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    link: 'https://twitter.com/southgateai'
 #  - icon: skype
 #    icon_pack: fab
 #    name: Skype Me
@@ -79,7 +79,7 @@ highlight_languages:
   - r
 math: false
 diagram: false
-privacy_pack: false
+privacy_pack: true
 edit_page:
   repo_url: ''
   content_dir: ''
@@ -136,9 +136,9 @@ comments:
 search:
   provider: wowchemy
   algolia:
-    app_id: ''
-    api_key: ''
-    index_name: ''
+    app_id: 'J1ROP4MC6W'
+    api_key: '9f786d43008ff2ba3b64628ac3c26c53'
+    index_name: 'site_southgateai'
     show_logo: false
 map:
   provider: ''
