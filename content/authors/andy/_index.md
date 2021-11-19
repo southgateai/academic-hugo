@@ -1,13 +1,22 @@
 ---
 title: Andy Southgate
 role: AI Warrior
-bio: My interests revolve around preventing the negative consequences of
-  superintelligent AI
+bio: Interests revolve around preventing potential harm from superintelligent AI
 interests:
-  - Artificial Intelligence
-  - AI Sigularity
-  - AI Apocalypse
+  - Superintelligence and Existential Risk
+  - Cyber Defence
+  - Critical Infrastructure Protection
+  - Unconventional Models of Reality
 social:
+  - icon: envelope
+    icon_pack: fas
+    link: 'mailto:andy@southgate.ai'
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/southgateai
+  - icon: linkedin
+    icon_pack: fab
+    link: https://www.linkedin.com/in/andysouthgate/
   - icon: github
     icon_pack: fab
     link: https://github.com/southgateai
@@ -27,4 +36,5 @@ superuser: true
 highlight_name: true
 ---
 
-Andy Southgate works tirelessly to combat the threat of superintelligent AI.
+Andy Southgate works to combat the threat of superintelligent AI.  Originating from the cybersecurity industry, the focus of his interest is the
+intersection and co-evolution of artificial intelligence and cyber defence.
