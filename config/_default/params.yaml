@@ -134,12 +134,12 @@ comments:
   commento:
     url: ''
 search:
-  provider: wowchemy
+  provider: algolia
   algolia:
     app_id: 'J1ROP4MC6W'
-    api_key: '9f786d43008ff2ba3b64628ac3c26c53'
+    api_key: 'eda897aed2b4bf7596c33a54b4b4fb52'
     index_name: 'site_southgateai'
-    show_logo: false
+    show_logo: true
 map:
   provider: ''
   api_key: ''
