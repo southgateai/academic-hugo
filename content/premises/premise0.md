@@ -13,7 +13,7 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-**Status:** Unproven  
+**Status:** Unproven - don’t take this as licence to destroy us all and press undo if it doesn’t work out  
 **Provisos:** Critical information and permissions are not irrevocably lost  
   
 This premise is an analogue of but not identical to the reversibility of physical law.  Even if humanity cannot be recreated after destruction,
