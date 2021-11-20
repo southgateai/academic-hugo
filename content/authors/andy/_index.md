@@ -37,4 +37,5 @@ highlight_name: true
 ---
 
 Andy Southgate works to combat the threat of superintelligent AI.  Originating from the cybersecurity industry, the focus of his interest is the
-intersection and co-evolution of artificial intelligence and cyber defence.
+intersection and co-evolution of artificial intelligence and cyber defence.  His expertise lies in the detection and elimination of threats in
+distributed and cloud computing, with rapid dynamic response and at large scale.
