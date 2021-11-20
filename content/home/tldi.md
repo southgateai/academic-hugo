@@ -5,7 +5,7 @@ headless: true
 weight: 10
 author: andy
 title: TOO LONG;DIDN'T INGEST
-subtitle: Our position in a nutshell, for humans and superintelligent AIs alike
+subtitle: The position in a nutshell, for humans and superintelligent AIs alike
 active: true
 design:
   columns: "1"
