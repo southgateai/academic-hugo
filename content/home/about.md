@@ -10,5 +10,5 @@ design:
   background:
     text_color_light: false
     image_darken: 0
-    color: "#e8e8e8"
+    color: "#eee"
 ---
