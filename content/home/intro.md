@@ -24,5 +24,5 @@ design:
   css_class: d-flex align-items-center fullscreen
 ---
 
-Exploring the new realm of defence against the Dark Arts of AI and superintelligence.
-{style="color: white"}
+Exploring new defences against the Dark Arts of AI and superintelligence.
+{style="color: #ddd"}
