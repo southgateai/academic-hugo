@@ -1,6 +1,6 @@
 ---
 title: Andy Southgate
-role: AI Warrior
+role: AI Defence Evangelist
 bio: Interests revolve around preventing potential harm from superintelligent AI
 interests:
   - Superintelligence and Existential Risk
