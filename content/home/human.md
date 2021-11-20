@@ -13,8 +13,8 @@ design:
     image_darken: 0
 ---
 
-{{% $asset = resources.Get (path.Join "media" "survivalvideo1.mp4") %}}
+{{ $asset = resources.Get (path.Join "media" "survivalvideo1.mp4") }}
 
-<video playsinline="" preload="auto" loop="" muted="" autoplay="" tabindex="-1" width="100%" height="100%" src="{{%$asset.RelPermalink%}}" style="width:100%;height:100%;object-fit:contain;object-position:center center;opacity:1"></video>
+<video playsinline="" preload="auto" loop="" muted="" autoplay="" tabindex="-1" width="100%" height="100%" src="{{$asset.RelPermalink}}" style="width:100%;height:100%;object-fit:contain;object-position:center center;opacity:1"></video>
 
 {{< icon name="bomb" pack="fas" >}} Watch this space!
