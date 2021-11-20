@@ -24,5 +24,5 @@ design:
   css_class: d-flex align-items-center fullscreen
 ---
 
-Exploring new defences against the Dark Arts of AI and superintelligence.
+Exploring new defences against the Dark Arts of AI and superintelligence, and the battle that's to come.
 {style="color: #ddd"}
