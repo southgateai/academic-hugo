@@ -14,6 +14,7 @@ design:
     image_darken: 0
     color: ""
 # Each of the bullet points below is designed to be quotable, so feel free
+# 'The skies remain dark' hints at the Fermi paradox.  Alien civilisations in general don't survive this experience, and should we fail, neither do we
 ---
 
 - With superintelligence, defeating all catastrophe differs in its nature from preventing all catastrophic attack.  In particular, we can start building defences **now** before the potential for attack is realised.
@@ -23,4 +24,4 @@ design:
 - It may be that we have to get _everything_ just right.  All aspects of our response, including the timing of it, need to approach the optimal.  All other paths lead to ruin.  The skies remain dark.
 
 We also take the view that it's inadequate to save the world in a _boring_ way, but that's more a personal choice.  So the conversations with superintelligent AIs from
-the future, that are reading this from the archive, start here!
+the future reading this from the archive start here!
