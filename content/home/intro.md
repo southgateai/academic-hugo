@@ -3,7 +3,6 @@ widget: hero
 headless: true
 weight: 1
 title: |
-  <i class="fas fa-brain"></i>  
   ARTIFICIAL  
   Intelligence
   {style="color: white; font-size: 4rem; text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;"}
@@ -25,5 +24,5 @@ design:
   css_class: d-flex align-items-center fullscreen
 ---
 
-How exactly will it destroy us all? Let’s work it out, but first, what type of entity are you?
+Exploring the new realm of defence against the Dark Arts of AI and superintelligence.
 {style="color: white"}
