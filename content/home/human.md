@@ -12,5 +12,6 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-{< video library="true" src="survivalvideo1.mp4" controls="no" >}}
+
+{{< video library="true" src="survivalvideo1.mp4" controls="no" >}}
 {{< icon name="bomb" pack="fas" >}} Watch this space!
