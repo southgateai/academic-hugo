@@ -1,0 +1,22 @@
+
+.hero-title {
+    font-family: 'MuseoModerno', 'Montserrat', 'cursive';    
+}
+
+.navbar-brand {
+    opacity: 0.35;
+    transition: opacity 3.0s;
+}
+
+.navbar-brand:hover {
+    opacity: 0.75;
+    transition: opacity 0.3s;
+}
+
+ul {
+  padding-bottom: 0.6em;
+}
+
+li {
+  padding-bottom: 0.6em;
+}
