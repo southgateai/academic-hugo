@@ -15,8 +15,8 @@ videos:
 
 ---
 
-<video playsinline="" preload="auto" loop="" muted="" autoplay="" tabindex="-1" width="100%" height="100%" src="/media/saioutcome1.mp4" style="width:100%;height:100%;object-fit:contain;object-position:center center;opacity:1"></video>
+<video playsinline="" preload="auto" loop="" muted="" autoplay="" tabindex="-1" width="100%" height="100%" src="/media/saioutcome1.mp4" poster="/media/saioutcome1.jpg"  style="width:100%;height:100%;object-fit:contain;object-position:center center;opacity:1"></video>
 
 The outcome of defence depends on when we start.
-<span style="visibility:hidden;">{{< video library="true" src="saioutcome1.mp4" controls="yes" >}}</span>
+<span style="visibility:hidden;">{{< video library="true" src="saioutcome1.mp4" controls="yes" >}}{{< figure src="saioutcome1.jpg" caption="" numbered="false" >}}</span>
   
