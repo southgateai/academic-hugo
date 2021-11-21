@@ -11,5 +11,12 @@ design:
   background:
     text_color_light: false
     image_darken: 0
+videos:
+
 ---
+
+<video playsinline="" preload="auto" loop="" muted="" autoplay="" tabindex="-1" width="100%" height="100%" src="/media/survivalvideo1.mp4" style="width:100%;height:100%;object-fit:contain;object-position:center center;opacity:1"></video>
+
 {{< icon name="bomb" pack="fas" >}} Watch this space!
+<span style="visibility:hidden;">{{< video library="true" src="survivalvideo1.mp4" controls="yes" >}}</span>
+  
