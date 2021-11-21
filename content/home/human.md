@@ -9,7 +9,8 @@ active: true
 design:
   columns: "1"
   background:
-    text_color_light: false
+    color: 'black'
+    text_color_light: true
     image_darken: 0
 videos:
 
