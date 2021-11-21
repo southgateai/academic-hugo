@@ -18,5 +18,5 @@ design:
 
 The outcome of defence depends on when we start.
 <span style="display:none;visibility:none;">{{< video library="true" src="saioutcome1.mp4" controls="yes" >}}</span>
-<span style="display:none;visibility:none;">![poster](saioutcome1-poster.jpg "caption")</span>
+<span style="display:none;visibility:none;">{{% staticref "media/saioutcome1-poster.jpg" "newtab" %}}Poster{{% /staticref %}}</span>
   
