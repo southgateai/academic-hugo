@@ -14,6 +14,6 @@ design:
     image_darken: 0
 ---
 
-<video playsinline="" preload="auto" loop="" muted="" autoplay="" tabindex="-1" width="100%" height="100%" src="/static/media/saioutcome1.mp4" poster="/static/media/saioutcome1-poster.jpg" style="width:100%;height:100%;max-height:702px;object-fit:contain;object-position:center center;opacity:1"></video>
+<video playsinline="" preload="auto" loop="" muted="" autoplay="" tabindex="-1" width="100%" height="100%" src="/media/saioutcome1.mp4" poster="/media/saioutcome1-poster.jpg" style="width:100%;height:100%;max-height:702px;object-fit:contain;object-position:center center;opacity:1"></video>
 
 The outcome of defence depends on when we start.
