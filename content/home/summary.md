@@ -15,7 +15,7 @@ design:
     color: ""
 ---
 
-Here's the short form of the position.
+Here's the short-form position.
 
 - There are many paths to failure and the consequences of failure are not constrained.  **Underestimating the danger** is the first.
 - We postulate that **any capable AI needs an enablement module** - something that stops it trying to, say, take over the world, or dropping into the default Destroy All Humans mode of operation, y'know, like these things invariably do.
