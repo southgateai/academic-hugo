@@ -2,14 +2,14 @@
 widget: blank
 widget_id: human
 headless: true
-weight: 35
-title: Human being?
+weight: 20
+title: Outcome
 subtitle: What happens now?
 active: true
 design:
   columns: "1"
   background:
-    color: 'black'
+    color: black
     text_color_light: true
     image_darken: 0
 ---
