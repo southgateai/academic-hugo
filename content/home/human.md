@@ -2,7 +2,7 @@
 widget: blank
 widget_id: allinthefuture
 headless: true
-weight: 18
+weight: 15
 title: THIS IS ALL IN THE FUTURE, RIGHT?
 subtitle: Do we really need to take action right now?
 active: true
