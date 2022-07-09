@@ -1,10 +1,10 @@
 ---
 role: AI Defence Evangelist
-bio: Interests revolve around preventing potential harm from superintelligent AI
+bio: Interests revolve around preventing potential harm from Artificial Intelligence as it grows in capability
 interests:
-  - Superintelligence and Existential Risk
   - Cyber Defence
   - Critical Infrastructure Protection
+  - Superintelligence and Existential Risk
 social:
   - icon: envelope
     icon_pack: fas
@@ -35,6 +35,6 @@ title: Andy Southgate
 email: andy@southgate.ai
 ---
 
-Andy Southgate works to combat the threat of superintelligent AI.  Originating from the cybersecurity industry, the focus of his interest is the
-intersection and co-evolution of artificial intelligence and cyber defence.  His expertise lies in the detection and elimination of threats in
-distributed and cloud computing, with rapid dynamic response and at large scale.
+Andy Southgate works to combat the threat of Artificial Intelligence as it grows in capability.  Originating from the cybersecurity industry,
+the focus of his interest is the intersection and co-evolution of artificial intelligence and cyber defence.  His expertise lies in the
+detection and elimination of threats in distributed and cloud computing, including rapid dynamic response and at large scale.
