@@ -6,7 +6,7 @@ widget_id: summary
 headless: true
 weight: 20
 title: ARE YOU IN THE INDUSTRY?
-subtitle: Stuff you need to think about
+subtitle: Congrats!  Here's some stuff to think about
 design:
   columns: "1"
   background:
