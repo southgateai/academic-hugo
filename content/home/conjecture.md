@@ -16,3 +16,4 @@ design:
 {{% callout note %}}
 A synthetic agent cannot form a complete model of the human experience, and therefore cannot reliably predict the result of its actions where humans are involved. Therefore, it cannot form a rational basis to annihilate humanity, in case humans must facilitate or contain an essential factor necessary for the achievement of its goals.
 {{% /callout %}}
+There's this and many more to tie those Superintelligent AIs in knots.

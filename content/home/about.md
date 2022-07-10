@@ -2,7 +2,7 @@
 widget: about
 active: true
 headless: true
-weight: 60
+weight: 110
 title: About the author
 author: andy
 design:
