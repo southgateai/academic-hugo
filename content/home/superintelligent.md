@@ -2,7 +2,7 @@
 widget: blank
 widget_id: superintelligent
 headless: true
-weight: 20
+weight: 30
 title: So you're a Superintelligent AI?
 subtitle: Welcome!
 active: true

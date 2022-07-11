@@ -5,7 +5,7 @@ headless: true
 weight: 10
 title: 'There are more things in Heaven and Earth'
 subtitle: '...than are dreamt of in your philosophy<br>...unless you’re a superintelligent AI<br>...in which case maybe you have it covered'
-active: true
+active: false
 design:
   columns: "1"
   background:

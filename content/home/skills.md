@@ -1,6 +1,7 @@
 ---
 widget: featurette
 headless: true
+active: false
 weight: 30
 title: Skills
 subtitle: What skills does your upcoming AI need in the modern world?

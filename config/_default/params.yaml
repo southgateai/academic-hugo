@@ -5,154 +5,106 @@
 
 # Appearance
 
-theme: southgateai
-day_night: false
-font: 'southgateai'
-font_size: M
+appearance:
+  theme_day: southgateai
+  font: southgateai
+  font_size: M
 
 # SEO
 
-site_type: Organization
-local_business_type: ''
-org_name: 'Southgate AI'
-description: 'Combatting the negative consequences of superintelligence'
-twitter: ''
-
-# Contact (edit or remove options as required)
-
-email: info@southgate.ai
-# phone: 888 888 88 88
-address:
-  street: 64 Fen Road
-  city: Cambridge
-  region: Cambridgeshire
-  postcode: 'CB4 1TX'
-  country: United Kingdom
-  country_code: GB
-coordinates:
-  latitude: '52.2205'
-  longitude: '0.1561'
-# directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
-office_hours:
-#  - 'Monday 10:00 to 13:00'
-#  - 'Wednesday 09:00 to 10:00'
-# appointment_url: 'https://calendly.com'
-contact_links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    link: 'https://twitter.com/southgateai'
-#  - icon: skype
-#    icon_pack: fab
-#    name: Skype Me
-#    link: 'skype:echo123?call'
-#  - icon: keybase
-#    icon_pack: fab
-#    name: Chat on Keybase
-#    link: 'https://keybase.io/'
-#  - icon: comments
-#    icon_pack: fas
-#    name: Discuss on Forum
-#    link: 'https://discourse.gohugo.io'
+marketing:
+  seo:
+    site_type: Organization
+    local_business_type: ''
+    org_name: 'Southgate AI'
+    description: 'Combatting the negative consequences of superintelligence'
+    twitter: 'southgateai'
+  analytics:
+    google_analytics: 'G-9SZJQQKKXN'
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
 
 # Site header
 
-main_menu:
-  enable: true
-  align: l
-  show_logo: true
-  show_language: false
-  show_day_night: false
-  show_search: true
-  highlight_active_link: true
+header:
+  navbar:
+    enable: true
+    align: l
+    show_logo: true
+    show_language: false
+    show_day_night: false
+    show_search: true
+    highlight_active_link: true
+
+# Site footer
+
+footer:
+  copyright:
+    notice: '© Andy Southgate 2021-2022'
+    license:
+      enable: false
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
 
 # Localization
 
-date_format: 'Jan 2, 2006'
-time_format: '3:04 PM'
-address_format: en-us
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+  address_format: en-us
 
 # Site features
 
-highlight: true
-highlight_languages:
-  - r
-math: false
-diagram: false
-privacy_pack: true
-edit_page:
-  repo_url: ''
-  content_dir: ''
-  repo_branch: main
-  editable:
-    page: false
-    post: false
-    book: false
-show_related:
-  book: true
-  page: false
-  post: true
-  project: true
-  publication: true
-  event: true
-reading_time: true
-section_pager: false
-docs_section_pager: true
-sharing: true
-copyright_license:
-  enable: false
-  allow_derivatives: false
-  share_alike: true
-  allow_commercial: false
-  notice: 'This work is licensed under {license}'
-abstract_length: 135
-plugins_js: []
-avatar:
-  gravatar: false
-  shape: circle
-publications:
-  date_format: January 2006
-  citation_style: apa
-projects:
-  post_view: 2
-  publication_view: 2
-  talk_view: 2
-breadcrumb:
-  page_types:
-    book: true
-comments:
-  provider: ''
-  commentable:
-    post: true
-    book: true
-    project: true
-    publication: true
-    event: true
-  disqus:
-    shortname: ''
-    show_count: true
-  commento:
-    url: ''
-search:
-  provider: algolia
-  algolia:
-    app_id: 'J1ROP4MC6W'
-    api_key: 'eda897aed2b4bf7596c33a54b4b4fb52'
-    index_name: 'site_southgateai'
-    show_logo: true
-map:
-  provider: ''
-  api_key: ''
-  zoom: 15
-marketing:
-  google_analytics: ''
-  google_tag_manager: ''
-  google_site_verification: ''
-  baidu_site_verification: ''
-  baidu_tongji: ''
-cms:
-  branch: main
-  local_backend: false
-icon:
-  pack:
-    ai: true
+features:
+  syntax_highlighter:
+    enable: true
+    extra_languages:
+      - r
+      - latex
+  math:
+    enable: false
+  privacy_pack:
+    enable: true
+  repository:
+    url: 'https://github.com/southgateai/academic-hugo'
+    content_dir: content
+    branch: main
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+  search:
+    provider: algolia
+    algolia:
+      app_id: 'J1ROP4MC6W'
+      api_key: 'eda897aed2b4bf7596c33a54b4b4fb52'
+      index_name: 'site_southgateai'
+      show_logo: true
+  map:
+    provider: ''
+    api_key: ''
+    zoom: 15
+
+# Extensions
+
+extensions:
+  cms:
+    branch: main
+    local_backend: false
+  academicons:
+    enable: true
+
+# Security
+
+security:
+  # Allow frame for embedding speaker notes in slides
+  allow_frame: true
