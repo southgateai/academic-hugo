@@ -3,8 +3,7 @@ widget: hero
 headless: true
 weight: 90
 title: |
-  BUT MOST OF ALL  
-  get onto Social!
+  generate some noise
   {style="color: white; font-size: 4rem; text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;"}
 cta:
   url: 'https://www.linkedin.com/search/results/content/?keywords=dangers%20of%20artificial%20intelligence&sortBy="date_posted"'

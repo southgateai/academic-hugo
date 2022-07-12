@@ -7,9 +7,12 @@ main:
   - name: About
     url: '#about'
     weight: 10
+#  - name: Convince Me
+#    url: 'convinceme/'
+#    weight: 20
   - name: Industry
     url: 'industry/'
-    weight: 20
+    weight: 30
 #  - name: Premises
 #    url: 'premises/'
 #    weight: 30

@@ -5,7 +5,7 @@ headless: true
 weight: 50
 title: "What to do?"
 subtitle:
-active: true
+active: false
 design:
   columns: "1"
   background:
