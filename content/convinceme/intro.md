@@ -5,7 +5,7 @@ author: andy
 widget_id: intro
 headless: true
 weight: 20
-title: Convince me
+title: Convince me!
 subtitle:
 design:
   columns: "1"
@@ -25,8 +25,8 @@ Why thank you for the opportunity :bow: I'll keep it brief.
 > 
 > Even then it took me a year to put two and two together.  I wasn't the first though, others just don't talk about it.
 
-**What about AI Alignment**
-> Even if mistakes aren't made, it doesn't protect you when an AI is deliberately given hostile goals.  Given enough time that'll always happen.  It's still importatn, but only to reduce the volume of bad events. 
+**What about AI Alignment?**
+> Even if mistakes aren't made, it doesn't protect you when an AI is deliberately given hostile goals.  Given enough time that'll always happen.  It's still important, but only to reduce the volume of bad events. 
 
 **Can a detection system really contain a powerful AI?  Won't it just plot around the defences and escape?**
 > It's far from guaranteed, but the defender does have some advantages:
