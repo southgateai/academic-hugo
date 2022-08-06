@@ -21,5 +21,5 @@ design:
   columns: '1'
 ---
 
-You've made it this far, why not find some AI conversations on LinkedIn and join in?  The future could depend on it!
+You've made it this far, why not find some AI conversations on LinkedIn and join in?  It's amazing who you can talk to out there!
 {style="color: #ddd"}

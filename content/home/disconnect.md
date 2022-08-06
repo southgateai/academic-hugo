@@ -3,8 +3,8 @@ widget: blank
 widget_id: disconnect
 headless: true
 weight: 13
-title: THE DISCONNECT
-subtitle: One aim - to fix the Disconnect
+title: IS THERE A DISCONNECT?
+subtitle:
 active: true
 design:
   columns: "1"
@@ -22,4 +22,4 @@ design:
 It does not have to be this way.
 
 - Cybersecurity is already **doing a large part** of what's necessary, with rapid proliferation of robust cloud-connected sensors.
-- For the AI industry this will be an **enabler**.  It lets AI develop safely and more quickly and removes potentially large liabilites.
+- For the AI industry this will be an **enabler**.  It lets AI develop safely and more quickly and reduces the chance of potentially large liabilites.
