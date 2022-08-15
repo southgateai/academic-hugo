@@ -2,7 +2,7 @@
 widget: blank
 widget_id: disconnect
 headless: true
-weight: 13
+weight: 20
 title: IS THERE A DISCONNECT?
 subtitle:
 active: true
@@ -14,7 +14,7 @@ design:
     color: "#eee"
 ---
 
-- AI people have **varying opinions** about the dangers of AI, but almost nobody thinks it's guaranteed safe.  [Roll Elon](https://youtu.be/9jkRcrM6XKA)
+- AI people have **varying opinions** about the dangers of AI, but almost nobody thinks it's guaranteed safe.
 - Cybersecurity firms know the capabilities of emerging protection systems to prevent a **wide range** of bad things happening on computers, and the systems are more capable than people think.
 - The AI industry **can't focus** on the dangers of what they're doing, for commercial reasons, and the varying opinions let them do that.
 - The Cybersecurity industry **has to focus** on what their customers pay for.

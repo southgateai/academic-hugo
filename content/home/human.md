@@ -3,7 +3,7 @@ widget: blank
 widget_id: likethefirstvirus
 headless: true
 weight: 10
-title: <i>It's like creating the first virus, in a world where nothing has an immune system...</i><div style="font-size&#58; 12pt; text-align&#58; right;">Andy Southgate</div>
+title: <i>It's like creating the first virus, in a world where nothing has an immune system...</i><div style="font-size&#58; 12pt; text-align&#58; right;">Southgate</div>
 # subtitle: But we can create that immune system
 active: true
 design:
