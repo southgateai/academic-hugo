@@ -5,7 +5,7 @@ headless: true
 weight: 35
 title: <i>The strange thing about the purpose of life is that we make so little effort to find it out</i>
 subtitle: What is it all about, when you get right down to it?</i>
-active: true
+active: false
 design:
   columns: "2"
   background:

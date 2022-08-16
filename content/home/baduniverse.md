@@ -5,7 +5,7 @@ headless: true
 weight: 45
 title: <i>A Bad Universe is one without any protection around just how much you can suffer</i>
 subtitle: Don't worry, you've been living with these possibilities all your life
-active: true
+active: false
 design:
   columns: "2"
   background:

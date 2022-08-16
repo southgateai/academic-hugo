@@ -5,7 +5,7 @@ headless: true
 weight: 25
 title: "<i>Definition: A Southgate Universe is one where suffering in life within it leads to a proportionate amount of joy in a subsequent or other life - joy that cannot be obtained in any other way</i>"
 subtitle: It's my website, I can make up terms, OK???
-active: true
+active: false
 design:
   columns: "2"
   background:
