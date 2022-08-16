@@ -4,15 +4,15 @@ active: true
 author: andy
 widget_id: summary
 headless: true
-weight: 20
+weight: 8000
 title: In Summary...
 subtitle: The position, in a nutshell
 design:
   columns: "1"
   background:
-    text_color_light: false
+    text_color_light: true
     image_darken: 0
-    color: ""
+    color: "black"
 ---
 - There are many paths to failure and the consequences of failure are not constrained.  **Underestimating the danger** is the first.
 - We're saying  that **any capable AI needs an enablement module** - something that stops it trying to, say, take over the world, or dropping into the default Destroy All Humans mode of operation, y'know, like these things invariably do.

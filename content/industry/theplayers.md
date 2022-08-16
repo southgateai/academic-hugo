@@ -9,8 +9,9 @@ active: true
 design:
   columns: "1"
   background:
-    text_color_light: false
+    text_color_light: true
     image_darken: 0
+    color: black
 ---
 
 The focus is on companies with sensor-based technology that feeds data into a larger Cloud ecosystem.

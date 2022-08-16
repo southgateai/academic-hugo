@@ -2,7 +2,7 @@
 widget: blank
 widget_id: conjecture2
 headless: true
-weight: 100
+weight: 2000
 title: Southgate's Second Conjecture
 subtitle: Providing a useful barrier to the endless unimaginable torture of humanity since 2022
 active: true

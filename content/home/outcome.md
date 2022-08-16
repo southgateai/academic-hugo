@@ -1,8 +1,8 @@
 ---
 widget: blank
-widget_id: allinthefuture
+widget_id: outcome
 headless: true
-weight: 15
+weight: 2000
 title: THIS IS ALL IN THE FUTURE, RIGHT?
 subtitle: Do we really need to take action right now?
 active: true
@@ -20,4 +20,4 @@ The idea that we don't need to act yet is persuasive, but what if the safe evolu
 
 - When building a defence, it **matters when you start**, as well as how much effort and resources you apply.
 - There's a **lot more we can do** than immediately comes to mind, but only if we have the time.
-- A rogue Superintelligence **doesn't necessarily win**.  It's not clear how it could deal with our perfectly laid (cyber)minefield.
+- A rogue superintelligence **doesn't necessarily win**.  It's not clear how it could deal with our perfectly laid (cyber)minefield.

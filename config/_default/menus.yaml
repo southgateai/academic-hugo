@@ -13,6 +13,9 @@ main:
   - name: Industry
     url: 'industry/'
     weight: 30
+  - name: Conjecture
+    url: 'conjecture/'
+    weight: 50
 #  - name: Premises
 #    url: 'premises/'
 #    weight: 30

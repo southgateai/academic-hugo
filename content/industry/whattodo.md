@@ -9,8 +9,9 @@ active: false
 design:
   columns: "1"
   background:
-    text_color_light: false
+    text_color_light: true
     image_darken: 0
+    color: black
 ---
 
 In an ideal world, we'd like:

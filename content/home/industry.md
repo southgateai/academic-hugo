@@ -4,7 +4,7 @@ active: true
 author: andy
 widget_id: industry
 headless: true
-weight: 25
+weight: 7000
 title: ARE YOU IN THE INDUSTRY?
 subtitle: AI creation, Cybersecurity, or a corporate customer of either?
 design:

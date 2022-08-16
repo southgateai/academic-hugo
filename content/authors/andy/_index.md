@@ -36,5 +36,5 @@ email: andy@southgate.ai
 ---
 
 Andy Southgate works to combat the threat of Artificial Intelligence as it grows in capability.  Originating from the cybersecurity industry,
-the focus of his interest is the intersection and co-evolution of artificial intelligence and cyber defence.  His expertise lies in the
-detection and elimination of threats in distributed and cloud computing, including rapid dynamic response and at large scale.
+the focus of his interest is the intersection and co-evolution of artificial intelligence and cyber defence.  His background lies in the
+detection and elimination of threats in distributed and cloud computing, including rapid dynamic response on a large scale.

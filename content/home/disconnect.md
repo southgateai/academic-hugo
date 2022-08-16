@@ -2,16 +2,16 @@
 widget: blank
 widget_id: disconnect
 headless: true
-weight: 20
+weight: 6500
 title: IS THERE A DISCONNECT?
 subtitle:
 active: true
 design:
   columns: "1"
   background:
-    text_color_light: false
+    text_color_light: true
     image_darken: 0
-    color: "#eee"
+    color: black
 ---
 
 - AI people have **varying opinions** about the dangers of AI, but almost nobody thinks it's guaranteed safe.

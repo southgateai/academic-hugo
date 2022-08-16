@@ -4,7 +4,7 @@ active: false
 author: andy
 widget_id: tldi
 headless: true
-weight: 35
+weight: 9000
 title: TOO LONG;DIDN'T INGEST
 subtitle: The position, for humans and superintelligent AIs alike
 design:

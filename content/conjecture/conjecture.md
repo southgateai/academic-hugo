@@ -2,7 +2,7 @@
 widget: blank
 widget_id: conjecture
 headless: true
-weight: 35
+weight: 1000
 title: The Southgate Conjecture
 subtitle: Providing a useful barrier to the annihilation of humanity since 2021
 active: true

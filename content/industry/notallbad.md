@@ -9,8 +9,9 @@ active: true
 design:
   columns: "1"
   background:
-    text_color_light: false
+    text_color_light: true
     image_darken: 0
+    color: "#444"
 ---
 
 On the plus side, industry **knows things that other groups might not**.
