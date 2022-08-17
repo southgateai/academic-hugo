@@ -10,9 +10,9 @@ subtitle: AI creation, Cybersecurity, or a corporate customer of either?
 design:
   columns: "2"
   background:
-    text_color_light: false
+    text_color_light: true
     image_darken: 0
-    color: ""
+    color: "#444"
 ---
 
 Industry insiders are key players, there's a [page especially for you](/industry).
