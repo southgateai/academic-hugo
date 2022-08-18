@@ -16,6 +16,9 @@ main:
   - name: Conjecture
     url: 'conjecture/'
     weight: 50
+  - name: The Nature of Reality
+    url: 'worlds/'
+    weight: 70
 #  - name: Premises
 #    url: 'premises/'
 #    weight: 30

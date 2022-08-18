@@ -20,4 +20,4 @@ The Simulation Hypothesis[\[@wiki\]](https://en.wikipedia.org/wiki/Simulation_hy
  - We can speculate about *why* we might be here.  Could it be a prison sentence, or a means of coercion?  "Yes your life was OK but we could have easily given you a more unpleasant one, so do what we say or you're back in there!"
  - All things become possible, including an appeal to the admins of the simulation.
  - There might already be people around with the ability to control the simulation.
- - AI might be able to exploit features if the simulation we either can't or don't know about.
+ - AI might be able to exploit features of the simulation we either can't or don't know about.
