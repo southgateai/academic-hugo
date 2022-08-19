@@ -15,11 +15,12 @@ design:
 ---
 
 - AI people have **varying opinions** about the dangers of AI, but almost nobody thinks it's guaranteed safe.
-- Cybersecurity firms know the capabilities of emerging protection systems to prevent a **wide range** of bad things happening on computers, and the systems are more capable than people think.
-- The AI industry **can't focus** on the dangers of what they're doing, for commercial reasons, and the varying opinions let them do that.
-- The Cybersecurity industry **has to focus** on what their customers pay for.
+- Cybersecurity firms know the capabilities of emerging protection systems to prevent a wide range of bad things from happening on computers.  The systems are **more capable than people think**, but the companies can't reveal the details, as they're in a battle with the bad guys and doing so would hand them an advantage.
+- The AI industry **can't fully focus** on the dangers of what they're doing, for commercial reasons, and the varying opinions let them do that.
+- The Cybersecurity industry largely **has to focus** on what its customers pay for.
 
-It does not have to be this way.
+You can connect these aims.
 
-- Cybersecurity is already **doing a large part** of what's necessary, with rapid proliferation of robust cloud-connected sensors.
-- For the AI industry this will be an **enabler**.  It lets AI develop safely and more quickly and reduces the chance of potentially large liabilites.
+- Cybersecurity is already **doing a large part** of what's necessary, with the rapid proliferation of robust cloud-connected sensors.
+- For the AI industry defensive measures can be a great **enabler**.  They let AI develop safely and more quickly and reduce the chance of potentially large liabilities.
+- Cybersecurity can make money both by **preventing AI disasters and providing that enabler**.

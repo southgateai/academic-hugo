@@ -2,7 +2,7 @@
 widget: blank
 widget_id: current
 headless: true
-weight: 20
+weight: 1000
 title: 'The State of Industry'
 subtitle: AI creators, Cybersecurity firms and their corporate customers
 active: true

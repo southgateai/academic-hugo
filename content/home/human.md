@@ -14,4 +14,4 @@ design:
     color: ""
 ---
 
-<div class="fa-3x"><i class="fa-solid fa-virus fa-beat" style="--fa-beat-scale: 1.35;"></i></div><span>Powerful AI will be new.  It could spread through machines and infrastructure with a genuine plan, and we <strong>don't have defences against it</strong>.  There is no immune system.  But we still have a chance to build one.</span>
+<div class="fa-3x"><i class="fa-solid fa-virus fa-beat" style="--fa-beat-scale: 1.35;"></i></div><span>Powerful AI will be new.  It could spread through machines and infrastructure with a genuine plan, and we <strong>don't have defences against it</strong>.  There is no immune system.  But we still have a chance to finish the one we're already inadvertently building.</span>

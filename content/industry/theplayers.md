@@ -2,7 +2,7 @@
 widget: blank
 widget_id: current
 headless: true
-weight: 40
+weight: 5000
 title: "Cybersecurity firms"
 subtitle: The firms to focus on
 active: true
@@ -21,7 +21,7 @@ The focus is on companies with sensor-based technology that feeds data into a la
  - [Trend Micro](https://www.trendmicro.com), with reference to their [endpoint sensor](https://www.trendmicro.com/en_hk/business/products/user-protection/sps/endpoint/endpoint-sensor.html).
  - [SentinelOne](https://www.sentinelone.com/).
  
-**These** are the companies we need to influence.  Indirect influence might be the most effective, if we can get customers express their curiosity.
+These are the companies carrying the fight right now.
 
 {{< spoiler text="Click to view the Sector Leaders" >}}
 {{< figure src="gartner-leaders-2021-05.png" id="gartner-leaders-2021-05" >}}

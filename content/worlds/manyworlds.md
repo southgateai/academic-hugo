@@ -4,7 +4,7 @@ widget_id: manyworlds
 headless: true
 weight: 4000
 title: Many worlds
-subtitle: The wavefunction is real and there is no collapse
+subtitle: ...and other quantum weirdness
 active: true
 design:
   columns: "1"
