@@ -1,10 +1,10 @@
 ---
 widget: blank
-active: true
+active: false
 author: andy
 widget_id: aiwillwin
 headless: true
-weight: 20
+weight: 2000
 title: I THINK AI WILL WIN AND YOUR DEFENCES WILL NOT WORK
 subtitle: Yep it's a fair position to take, but let's consider some scenarios
 design:

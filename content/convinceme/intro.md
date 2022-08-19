@@ -1,12 +1,11 @@
 ---
 widget: blank
-active: true
-author: andy
 widget_id: intro
 headless: true
-weight: 20
-title: Convince me!
-subtitle:
+weight: 1000
+title: <i>'History is merely a list of surprises,' I said. 'It can only prepare us to be surprised yet again.'</i>
+subtitle: <div style="font-size&#58; 12pt; text-align&#58; right;">Kurt Vonnegut, Slapstick, or Lonesome No More!</div>
+active: true
 design:
   columns: "1"
   background:
@@ -15,28 +14,4 @@ design:
     color: ""
 ---
 
-Why thank you for the opportunity :bow: I'll keep it brief.
-
-**Why haven't I heard of this?**
-> I'm at a fairly rare intersection:
-> * Interested in the dangers of future AI.  [Nick Bostrom's book](https://www.amazon.co.uk/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834/) was my beach read.
-> * In the **yes it's something to worry about** camp.
-> * In the right part of the right company to know the details of next-gen security systems.
-> 
-> Even then it took me a year to put two and two together.  I wasn't the first though, others just don't talk about it.
-
-**What about AI Alignment?**
-> Even if mistakes aren't made, it doesn't protect you when an AI is deliberately given hostile goals.  Given enough time that'll always happen.  It's still important, but only to reduce the volume of bad events. 
-
-**Can a detection system really contain a powerful AI?  Won't it just plot around the defences and escape?**
-> It's far from guaranteed, but the defender does have some advantages:
-> * AI might plot the perfect strategy and act very quickly but can only act on what it knows about.  Secrets will still be a thing.
-> * Most problems will be detected because the defences have **seen a similar pattern before**.  Defensive measures co-evolve with AI, and new patterns of misbehaviour are added to the detection library.
-> * With permissive controls in the hardware systems, AI can't find any hardware to run on, unless it plays by the rules.
-> * Trying to find out about or probe the defences triggers the defences.
-> * The defenders might have tricks.  Lie detectors, or honeypots to tempt the AI to reveal its intentions.
-> * If the AI knows all this, but doesn't know what will trigger the defences or what he cosequences might be, its best strategy might be to play along with the rules.
->
-> A rough parallel is committing a major crime when the police are watching your every move, and have been since you were born.
-
-More to come...
+In the future, there is powerful AI, and there are defences trying to ensure that good things happen and bad things do not.  Those defences might simply be a human within reach of an off switch, or they might be the most comprehensive and effective defence system that it's possible to create.  As you turn the dial as to how effective the defences are, at some point the defenders win.  In predicting the future we need to decide how far it's possible to turn that dial, and whether anything prevents us from turning it far enough.
