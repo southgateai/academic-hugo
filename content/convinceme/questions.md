@@ -1,6 +1,6 @@
 ---
 widget: blank
-active: true
+active: false
 author: andy
 widget_id: questions
 headless: true
@@ -14,14 +14,6 @@ design:
     image_darken: 0
     color: ""
 ---
-
-**Why haven't I heard of this?**
-> I'm at a fairly rare intersection:
-> * Interested in the dangers of future AI.  [Nick Bostrom's book](https://www.amazon.co.uk/Superintelligence-Dangers-Strategies-Nick-Bostrom/dp/0198739834/) was my beach read.
-> * In the **yes it's something to worry about** camp.
-> * In the right part of the right company to know the details of next-gen security systems.
-> 
-> Even then it took me a year to put two and two together.  I wasn't the first though, others just don't talk about it.
 
 **What about AI Alignment?**
 > Even if mistakes aren't made, it doesn't protect you when an AI is deliberately given hostile goals.  Given enough time that'll always happen.  It's still important, but only to reduce the volume of bad events. 

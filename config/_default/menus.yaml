@@ -7,9 +7,9 @@ main:
   - name: About
     url: '#about'
     weight: 10
-#  - name: Convince Me
-#    url: 'convinceme/'
-#    weight: 20
+  - name: The Defensive Argument
+    url: 'convinceme/'
+    weight: 20
   - name: Industry
     url: 'industry/'
     weight: 30

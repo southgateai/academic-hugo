@@ -1,7 +1,7 @@
 ---
-title: "Convince Me"  # Add a page title.
-summary: ""  # Add a page description.
-date: "2022-07-12T00:00:00Z"  # Add today's date.
-type: "widget_page"  # Page type is a Widget Page
+title: "The Defensive Argument"
+summary: "The case for using defensive measure to control powerful AI"
+date: "2022-07-12T00:00:00Z"
+type: "widget_page"
 share: true
 ---

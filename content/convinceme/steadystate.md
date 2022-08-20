@@ -2,7 +2,7 @@
 widget: blank
 widget_id: failures
 headless: true
-weight: 3000
+weight: 6000
 title: Is there a viable steady state we can get to?
 subtitle: Is there any stable end state at all that we can claim t be a good outcome?
 active: true
