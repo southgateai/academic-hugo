@@ -1,7 +1,7 @@
 ---
 widget: hero
 headless: true
-weight: 8500
+weight: 10000
 title: |
   Forward! Onto Social!
   {style="color: white; font-size: 4rem; text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;"}
