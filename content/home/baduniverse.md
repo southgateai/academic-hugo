@@ -20,7 +20,7 @@ Can you keep someone's brain alive in a jar and launch it off into space with en
 
 Well, I doubt it, to be honest, to all of the above, although it does highlight our ability to ignore horrific possibilities and just carry on.  Limitless torment, like being on fire, combined with everything else, like that nagging feeling that you forgot to pay the electricity bill.
 
-No, the universe isn't that mean to us, consciousness is just going to detach at some point.  Or do something far more interesting, like initiate [False Vacuum Decay](https://en.wikipedia.org/wiki/False_vacuum_decay).
+No, the universe isn't that mean to us, consciousness is just going to detach at some point.  Or do something far more interesting, like initiate False Vacuum Decay[\[@wiki\]](https://en.wikipedia.org/wiki/False_vacuum_decay).
 
 There's more to this one though.
 

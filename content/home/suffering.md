@@ -5,7 +5,7 @@ headless: true
 weight: 8500
 title: <i>Suffering is weird.  It shouldn't exist.  What is the universe trying to tell us?</i>
 subtitle:
-active: true
+active: false
 design:
   columns: "2"
   background:

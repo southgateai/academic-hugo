@@ -24,6 +24,6 @@ The mood music suggests regulation is on the way, and that regulation is likely 
  - Governments might make defensive measures mandatory for high-capability AI projects.
  - Telemetry will likely be bundled with defenses to ensure compliance and give advance warning of risk.
 
-Neither of these are bad outcomes compared to uncontrolled AI development, or regulation that slows AI progress in some juristictions, only to allow less cautious operators to get ahead.
+None of these are bad outcomes compared to uncontrolled AI development, or regulation that slows AI progress in some jurisdictions, only to allow less cautious operators to get ahead.
 
 This might, and probably should, prove to be such an advantage for the major players in AI that it leads them to fund or create defensive projects themselves.

@@ -22,7 +22,7 @@ Yep, if true, this one throws an **enormous spanner in the works** when you're t
 
 It is at least one way where the universe starts to make sense.  If you were a superbeing that wanted to rack up some points on the suffering side, and you could create any universe for yourself to live in for a while to score those points, wouldn't it look like this one?
 
-It even works over small and large timescales.
+{{< spoiler text="It even works over small and large timescales (click to expand)" >}}
 
 | Action                                                                | Consequence                                            |
 |-----------------------------------------------------------------------|--------------------------------------------------------|
@@ -33,3 +33,4 @@ It even works over small and large timescales.
 | You face your fears and do the right thing :worried:                  | Good things happen :smiley:                            | 
 
 You can't even get ahead on the joy side over the space of a few days.  What is going on?  Are you just here to fill your quota of suffering so things can be nice for a while in the next life?
+{{< /spoiler >}}

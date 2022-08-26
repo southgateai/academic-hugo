@@ -4,11 +4,8 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: About
-    url: 'about/'
-    weight: 10
   - name: The Defensive Argument
-    url: 'convinceme/'
+    url: 'defensive/'
     weight: 20
   - name: Industry
     url: 'industry/'
@@ -17,8 +14,12 @@ main:
     url: 'conjecture/'
     weight: 50
   - name: The Nature of Reality
-    url: 'worlds/'
+    url: 'reality/'
     weight: 70
+  - name: About
+    url: 'about/'
+    weight: 1000
+  
 #  - name: Premises
 #    url: 'premises/'
 #    weight: 30

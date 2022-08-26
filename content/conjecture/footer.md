@@ -5,7 +5,7 @@ headless: true
 weight: 10000
 title: 
 subtitle:
-active: true
+active: false
 design:
   columns: "1"
   background:
