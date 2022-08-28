@@ -55,7 +55,12 @@
         <text x="184.042px" y="143.281px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:42.667px;fill:white;">V<tspan x="211.729px 221.208px " y="143.281px 143.281px ">is</tspan>ionaries</text>
     </g>
     <text x="64px" y="42.188px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:28.444px;">Magic Quadrant for General Detection and Response</text>
-    <text x="672px" y="999.641px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:21.333px;">As of <tspan x="725.365px 739.594px " y="999.641px 999.641px ">Au</tspan>gust 2022</text>
+    <g transform="matrix(1,0,0,1,-160,0)">
+        <text x="809.417px" y="999.641px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:21.333px;">As of <tspan x="862.781px 877.01px " y="999.641px 999.641px ">Au</tspan>gust 2022</text>
+    </g>
+    <g transform="matrix(1,0,0,1,205,192)">
+        <text x="682.797px" y="821px" style="font-family:'ArialMT', 'Arial', sans-serif;font-size:16px;fill:rgb(136,136,136);">www<tspan x="716.578px 721.023px " y="821px 821px ">.s</tspan>outhgate.ai</text>
+    </g>
     <defs>
         <image id="_Image1" width="104px" height="104px" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAGgAAABoCAYAAAAdHLWhAAAACXBIWXMAAA7EAAAOxAGVKw4bAAADFUlEQVR4nO3ZsU4qQRgF4LNqQb2l9a6PsK0lrb3JhljyBjbyELYGE+MD2FrS8Q5S2y00Giwg/624l2sUFthlzsyck5xAwTLAl38zGRIzg+I2VVXZ29sbJpMJ1h+n0ynOXH+4WPIbwmQywWw2+/GaoigE1GT2QdiUPM8FtGuaRtiULMsEVDeDwcDu7+8bR9iUPM9xcrTVPM/t7S2KojjqmlmWIdEurn6+vr7s6uoKr6+vR1mvqirAzNQdOp/PrdvtGoBWm6apmZlucbum0+kkLy8v6Ha7ra6TZRkACGifHAMpz3MAAto7bSNpghpIm0iaoIbSFtJqgrTNbiifn592cXGB9/f3Rt6vqiqkaZpoghrIcrm0fr/fGE6apkjTNAF0izs4y+XSbm5u8PT01Nh7rm5vgIAOShs4wL8NAiCgvdMWDqAJOjht4gCaoIPSNg7w/wQ5P3z0qYvFwsqy3Ovw8/z8vPZrq6qy1ZrOv7QvPQSnLEv7+PiodQq+OsUW0BFxFouFmdX7q6IoCgG5wFl1G9L19bWAXOHUQRoMBgJyibMN6fn5WUCucTYhjcdjATHg/Ia0vsUWkGOc70jft9gCIsBZR7q7uxMQI86mOv9xXJcZJ3ogdpyogXzAiRbIF5wogXzCiQ7IN5yogHzEiQbIV5wogHzGCR7Id5yggULACRYoFJwggULCCQ4oNJyggELECQYoVJwggELG8R4odByvgWLA8RYoFhwvgWLC8Q4oNhyvgGLE8QYoVhwvgGLGoQeKHYcaSDjEQMIhBhIOMZBwiIGEQwwkHGIg4RADCYcYSDjEQMIhBhIOMZBwiIGEQwwkHGIg4RADCYcYSDjEQMIhBhIOMZBwiIGEQwwkHGIg4RADCYcYSDjEQMIhBhIOMZBwiIGEQwwkHGIg4RADCcd9hUNe4ZBXOOQVDnmFQ17hkFc45EWv1xMOcU8uLy+RJAl2SVmWGA6HOD093e1CZfeYGR4fHy1JEk0OYf8+qYMkHIdA25CEQwD0G5JwiIC+IwnHbc9+2jj0er0EgI1GIzw8PGi35jB/AIkV/eREfnl2AAAAAElFTkSuQmCC"/>
     </defs>

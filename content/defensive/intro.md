@@ -4,7 +4,7 @@ widget_id: intro
 headless: true
 weight: 1000
 title: <i>'History is merely a list of surprises,' I said. 'It can only prepare us to be surprised yet again.'</i>
-subtitle: <div style="font-size&#58; 12pt; text-align&#58; right;">Kurt Vonnegut, Slapstick, or Lonesome No More!</div>
+subtitle: <div style="font-size&#58; 12pt; text-align&#58; right;">Kurt Vonnegut</div>
 active: true
 design:
   columns: "1"
