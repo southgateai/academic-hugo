@@ -9,9 +9,9 @@ active: true
 design:
   columns: "1"
   background:
-    text_color_light: true
+    text_color_light: false
     image_darken: 0
-    color: black
+    color: ""
 ---
 
 - AI people have **varying opinions** about the dangers of AI, but almost nobody thinks it's guaranteed safe.
@@ -22,5 +22,5 @@ design:
 You can connect these aims.
 
 - Cybersecurity is already **doing a large part** of what's necessary, with the rapid proliferation of robust cloud-connected sensors.
-- For the AI industry defensive measures can be a great **enabler**.  They let AI develop safely and more quickly and reduce the chance of potentially large liabilities.
+- For the AI industry, defensive measures can be a great **enabler**.  They let AI develop safely and more quickly and reduce the chance of potentially large liabilities.
 - Cybersecurity can make money both by **preventing AI disasters and providing that enabler**.

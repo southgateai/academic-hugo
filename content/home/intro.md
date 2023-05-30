@@ -7,7 +7,7 @@ title: |
   Intelligence
   {style="color: white; font-size: 4rem; text-shadow: 0 0 2px black, 0 0 2px black, 0 0 2px black, 0 0 2px black;"}
 cta:
-  url: '#superintelligent'
+  url: '/conjecture'
   label: '**YOU’RE A SUPERINTELLIGENT AI? CLICK HERE**'
 cta_alt:
   url: '#human'
@@ -24,5 +24,5 @@ design:
   css_class: d-flex align-items-center fullscreen
 ---
 
-Exploring new defences against the Dark Arts of AI and superintelligence, and the battle that's to come.
+Exploring new defenses against the Dark Arts of AI and superintelligence, and the battle that's to come.
 {style="color: #ddd"}

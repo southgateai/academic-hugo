@@ -19,4 +19,4 @@ Religious beliefs[\[@wiki\]](https://en.wikipedia.org/wiki/Belief#Religion) brin
  - Clear views about the Afterlife[\[@wiki\]](https://en.wikipedia.org/wiki/Afterlife).
  - Includes the possibility of Divine Intervention.  We can't exactly rely on it, but it does stop us all from jumping off a cliff if we conclude we're a hopeless case.
 
-Both sides can *use* religion for their own purposes.  Humanity could form a cult that sees AI as anathema and won't tolerate it, or current religions could outlaw it.  AI could influence current religion or promulgate its own to further its aims.  But this can happen in many interpretations of the world and is not our main concern here. We're considering which version of reality we might actually be in.
+Both sides can *use* religion for their own purposes.  Humanity could form a cult that sees AI as anathema and won't tolerate it, or current religions could outlaw it.  AI could influence current religions or promulgate its own to further its aims.  But this can happen in many interpretations of the world and is not our main concern here. We're considering which version of reality we might actually be in.

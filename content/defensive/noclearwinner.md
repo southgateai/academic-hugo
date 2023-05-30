@@ -14,4 +14,4 @@ design:
     color: ""
 ---
 
-<div class="fa-3x"><i class="fa-solid fa-balance-scale fa-beat" style="--fa-beat-scale: 1.35;"></i></div>It is not a clear win for either side, which is OK, because that means it's not definitely Doom.  It <i>feels</i> like, the more effort we put into defences, and the earlier we start, or the better we time things, the better chance of a good outcome.
+<div class="fa-3x"><i class="fa-solid fa-balance-scale fa-beat" style="--fa-beat-scale: 1.35;"></i></div>It is not a clear win for either side, which is OK, because that means it's not definitely Doom.  It <i>feels</i> like, the more effort we put into defenses, and the earlier we start, or the better we time things, the better chance of a good outcome.

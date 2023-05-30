@@ -42,7 +42,7 @@ header:
 
 footer:
   copyright:
-    notice: '© Andy Southgate 2021-2022'
+    notice: '© Andy Southgate 2021-2023'
     license:
       enable: false
       allow_derivatives: false
@@ -83,12 +83,10 @@ features:
     commento:
       url: ''
   search:
-    provider: algolia
-    algolia:
-      app_id: 'J1ROP4MC6W'
-      api_key: 'eda897aed2b4bf7596c33a54b4b4fb52'
-      index_name: 'site_southgateai'
-      show_logo: true
+    provider: wowchemy
+    wowchemy:
+      min_length: 1  # Only the matches whose length exceeds this value will be returned.
+      threshold: 0.3  # Where 0 requires a perfect match and 1 matches anything.
   map:
     provider: ''
     api_key: ''

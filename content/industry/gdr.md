@@ -22,6 +22,4 @@ Will we see another era of cybersecurity?
 
 If so, the field is wide open.
 
-{{< figure src="magic-quadrant-gdr.svg" id="magic-quadrant-gdr" caption="Magic Quadrant diagram for GDR">}}
-
 To see *why* GDR might become the Next Big Thing, head on over to the [Defensive Argument](/defensive) page.
