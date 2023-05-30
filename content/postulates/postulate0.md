@@ -13,7 +13,7 @@ design:
     text_color_light: false
     image_darken: 0
 ---
-**Status**:** Considered self-evident  
+**Status:** Considered self-evident  
 **Provisos:** Optimisation to a 'lucky guess' of the nature (or subset of natures) of reality can outperform the wider posture  
   
 This postulate extends the problem set to include a selected subset of all plausible views of the constitution of reality.  In particular, the [materialist nature](/reality/#physicalism), or any nature where conscious experience arises solely from physical processes

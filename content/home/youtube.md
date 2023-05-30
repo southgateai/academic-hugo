@@ -16,3 +16,6 @@ design:
 ---
 
 {{< youtube 8rklPoIUVsk >}}
+<script src="https://apis.google.com/js/platform.js"></script>
+
+<div class="g-ytsubscribe" data-channelid="UCvsRSfFPrwS3vnkb3QyHsug" data-layout="default" data-count="hidden"></div>
