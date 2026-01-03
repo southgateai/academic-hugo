@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Southgate AI # Website name
-baseurl: 'https://southgate.ai/' # Website URL
-copyright: '© {year} Andy Southgate' # Footer text, e.g. '© {year} Me'
+baseurl: 'https://cyber.southgate.ai/' # Website URL
+copyright: '© 2023 Andy Southgate' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
